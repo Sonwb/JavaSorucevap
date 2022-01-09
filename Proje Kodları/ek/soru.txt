@@ -1,0 +1,36 @@
+Aşağıdakilerden hangisi Abstract Class özelliklerinden biri yanlıştır ?
+Constructor yoktur(vardır)
+Static üyeler içerebilir
+Farklı access modifier içerebilir
+Bir sınıf sadece bir tane abstract sınıfı inherit edebilir
+A
+Aşağıdaki bilgilerden hangisi yanlıştır ?
+Bir sınıf birden fazla interface’i inherit olarak alabilir ama bir sınıfa bir tane abstract class inherit alınabilir.
+Sınıfın önüne “abstract” sözcüğü yazılarak soyutlaştırma işlemi yapılır. Abstract sınıftan kalıtım almak için de “İmplements” kullanılır.(extend)
+Abstract classları kullanmak hız açısından avantaj sağlar.
+Abstract class, is-a ilişkilerinde kullanılır:
+B
+Bir sınıfı abstract yapmak için " " hangi keywordünü kullanırız. boşluğa aşağıdakilerden hangisi gelmelidir ?
+implements
+extend
+abstract 
+super
+C
+Aşağıdaki özelliklerden hangisi interface ve abstractların ortak özelliklerindendir ?
+Constructor içerebilir.
+Static üyeler içerebilir.
+Farklı tipte erişim belirleyici içerebilir.		
+New keywordüyle nesnesi oluşturulamaz. (doru)
+D
+Aşağıdaki abstract özelliklerinden hangisi doğrudur ?
+Soyut olmayan bir sınıf içerisinde soyut metot tanımlamak mümkündür.
+Soyut sınıfta bulunan özellikler sadece private erişim belirleyicisi ile tanımlanabilir.
+Soyut sınıflar Constructor barındıramaz. 
+Soyut bir sınıftan istenildiği kadar sınıf türetilebilir ancak bir sınıf, yalnızca bir soyut sınıfı extend edebilir. Yani A isimli bir soyut sınıftan türeyen B, C, D gibi pek çok sınıf bulunabilirken, B sınıfı yalnızca A’dan türeyebilir ve başka bir soyut sınıfı extend edemez.(doru)
+D
+Aşağıdaki özelliklerden hangisi abstract class - methodlarına ait değildir ?
+Kendisinden inherit alacak sınıflar ile arasında “can-do” ilişkisi vardır.(interface ait)
+Bu metotlar alt sınıflara devredilir ve alt sınıflar Override ettikleri bu soyut metotları kendi ihtiyaçlarına göre doldururlar.
+Abstract sınıfları genel olarak inheritance (kalıtım) uygularken kullanırız.
+Abstract, yani soyut metot, içerisinde kod barındırmayan, yalnızca imzadan ibaret olan metotlardır.
+A
